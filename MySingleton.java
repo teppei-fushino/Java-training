@@ -6,8 +6,5 @@ public class MySingleton{
             System.out.println("hello");
             return instance;
         }
-
-        getInstance();
     }
-
 }
